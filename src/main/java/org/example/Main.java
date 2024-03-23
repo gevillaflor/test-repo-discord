@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello Testing....");
         System.out.println("Hello Discord....");
+        System.out.println("Sa wakas gumana na hahahaha....");
     }
 }
